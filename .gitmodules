@@ -6,3 +6,6 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 13.0
+[submodule "pos_fel"]
+	path = pos_fel
+	url = https://github.com/rocketgithub/pos_fel.git

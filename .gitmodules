@@ -13,3 +13,6 @@
 	path = fel_infile
 	url = https://github.com/rocketgithub/fel_infile.git
 	branch = 13.0
+[submodule "innovative"]
+	path = innovative
+	url = https://github.com/rocketgithub/innovative.git

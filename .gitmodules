@@ -26,3 +26,6 @@
 [submodule "pos_lot_check"]
 	path = pos_lot_check
 	url = git@github.com:rocketgithub/pos_lot_check.git
+[submodule "stock_transfer"]
+	path = stock_transfer
+	url = git@github.com:rocketgithub/stock_transfer.git

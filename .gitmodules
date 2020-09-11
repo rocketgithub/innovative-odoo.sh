@@ -20,3 +20,7 @@
 	path = hr_expense_invoice
 	url = git@github.com:rocketgithub/hr_expense_invoice.git
 	branch = master
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 13.0

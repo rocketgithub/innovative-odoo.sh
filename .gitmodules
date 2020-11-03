@@ -29,3 +29,11 @@
 [submodule "stock_transfer"]
 	path = stock_transfer
 	url = git@github.com:rocketgithub/stock_transfer.git
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 13.0
+[submodule "fel_gt"]
+	path = fel_gt
+	url = git@github.com:rocketgithub/fel_gt.git
+	branch = 13.0

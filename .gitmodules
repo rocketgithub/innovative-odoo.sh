@@ -14,9 +14,6 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 13.0
-[submodule "intcomex"]
-	path = intcomex
-	url = git@github.com:rocketgithub/intcomex.git
 [submodule "innovative"]
 	path = innovative
 	url = git@github.com:rocketgithub/innovative.git

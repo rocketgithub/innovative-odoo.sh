@@ -31,3 +31,6 @@
 [submodule "intcomex"]
 	path = intcomex
 	url = git@github.com:rocketgithub/intcomex.git
+[submodule "pos_lot_check"]
+	path = pos_lot_check
+	url = git@github.com:rocketgithub/pos_lot_check.git
